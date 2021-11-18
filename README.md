@@ -1,4 +1,4 @@
-# pix2code
+# pix2code github 的地址
 *Generating Code from a Graphical User Interface Screenshot*
 
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](LICENSE.txt)
